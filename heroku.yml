@@ -1,5 +1,5 @@
-version: '2'
-services:
+#version: '2'
+#services:
   client:
     build: './client'
     ports: ["3000:3000"]
